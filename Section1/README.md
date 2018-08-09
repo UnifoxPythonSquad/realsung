@@ -1,4 +1,4 @@
-#Python Setting
+# Python Setting
 
 ![Image1](./screenshot/1.png)
 
