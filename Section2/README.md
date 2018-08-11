@@ -2,7 +2,7 @@
 
 ## 2-1 숫자형
 
-'''python
+```python
 #문제1
 lang = 80
 eng = 75
@@ -19,11 +19,11 @@ print(17%3)
 """
 주어진 숫자를 2로 나누어서 나머지가 0이 남으면 짝수, 1이 남으면 홀수 일 것이다.
 """
-'''
+```
 
 ## 2-2 문자열 자료형
 
-'''python
+```python
 #문제 1
 print("\"점프 투 파이썬\"")
 
@@ -65,11 +65,11 @@ a = "a:b:c:d"
 b = a.split(":")
 c = "#".join(b)
 print(c)
-'''
+```
 
 ## 2-3 리스트 자료형
 
-'''python
+```python
 #문제1
 i = ['Life', 'is', 'too', 'short', 'you', 'need', 'python']
 print(i[4], i[2])
@@ -101,10 +101,10 @@ l = [1, 2, 3, 4, 5]
 l.remove(2)
 l.remove(4)
 print(l)
-'''
+```
 
 ## 2-4 튜플 자료형
-'''python
+```python
 #문제1
 t1 = (3,)
 print(t1)
@@ -119,10 +119,10 @@ print(t1)
 #문제3
 t2 = (1,2,3)
 print(t2 + (4,))
-'''
+```
 
 ## 2-5 딕셔너리 자료형
-'''python
+```python
 #문제1
 dic1 = {'name': '홍길동', 'birth': 1128, 'age': 30}
 print(dic1)
@@ -151,10 +151,10 @@ print(min(dic4.values()))
 dic5 = {'A':90, 'B':80, 'C':70}
 n = list(dic5.items())
 print(n)
-'''
+```
 
 ## 2-6 집합 자료형
-'''python
+```python
 #문제1
 s1 = ['a','b','c']
 s2 = set(s1)
@@ -179,10 +179,10 @@ print(type(i1))
 l = {'a','b','c'}
 l.update('d','e','f')
 print(sorted(l))
-'''
+```
 
 ## 2-7 불 자료형
-'''python
+```python
 #문제1
 """
 1 != 1
@@ -208,10 +208,10 @@ print(bool(a))
 print(bool(b))
 print(bool(c))
 print(bool(d))
-'''
+```
 
 ## 2-8 변수
-'''python
+```python
 #문제1
 a = [1,2,3]
 b = [1,2,3]
@@ -266,4 +266,4 @@ print(y)
 t와 y는 서로 다른 객체이지만 t와 y는 둘 다[2, 3]를 포함하고 있고 서로 같은 곳을 바라보는 객체이다.
 그러므로 t의 리스트 값을 변경하면 y가 포함하고 있는 리스트 값도 변경 된다.
 """
-'''
+```
