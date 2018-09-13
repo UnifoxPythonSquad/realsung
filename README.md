@@ -7,7 +7,7 @@
 **IDE & SETTING**
 > MacOS High Sierra
 > 
-> Mac Termial
+> iTerm2
 > 
 > Sublime Text3
 > 
