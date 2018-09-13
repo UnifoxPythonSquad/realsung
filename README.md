@@ -2,13 +2,20 @@
 **파이썬 참고 교재**
 > [Python E-Book]
 
----
+<hr>
+
 **IDE & SETTING**
 > MacOS High Sierra
+> 
 > Mac Termial
+> 
 > Sublime Text3
+> 
 > Python 2.7.15
+> 
 > Python 3.7.0
+
+<hr>
 
 **TASK**
 
@@ -23,8 +30,6 @@
 
 * **[iglob.py]**
 	- Python Fuction : glob , iglob
-
----
 
 **Section1**
 * Python Setting
