@@ -15,8 +15,6 @@
 > 
 > Python 3.7.0
 
-<hr>
-
 **TASK**
 
 * **[NaverMovie_parsing.py]**
